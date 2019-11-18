@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Page Inscription</string>
+
+    <string-array name="sexe_array">
+        <item>Choisissez</item>
+        <item>F</item>
+        <item>M</item>
+    </string-array>
+</resources>
